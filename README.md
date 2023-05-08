@@ -7,8 +7,12 @@ This is my first project in C
 
 Currently the program can
 
- 1.Generate a random passowrd and save it in a 'password.txt' file
+ 1.Generate a random passowrd and save it in a 'password.txt' file.
+ 
+ 
  2.View the generated passwords
+ 
+ 
  you can generate any number of passwords and the program will keep adding it in the list
 
 To delete a password you'll have to manually open the passwords file and remove the unwanted password.
