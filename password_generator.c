@@ -1,3 +1,5 @@
+//First project in C by harumans
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
